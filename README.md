@@ -1,0 +1,2 @@
+# TradrX
+trading platform
